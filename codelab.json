@@ -3,16 +3,15 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-11-22T15:05:40+02:00",
-  "id": "id-of-the-codelab",
-  "duration": 0,
-  "title": "This is Android Academy CI/CD codelab!!! Yaaaay!!!!",
-  "authors": "Your name",
-  "summary": "The codelab description",
+  "updated": "2020-11-22T19:34:25+02:00",
+  "id": "ci-cd-workshop-source",
+  "duration": 11,
+  "title": "Android Academy CI/CD Workshop Dec 2020",
+  "summary": "",
   "source": "/Users/artyom/Google Drive/Android Academy/Cycle 8/CI_CD Workshop/main.md",
   "theme": "",
   "status": null,
   "category": null,
   "tags": [],
-  "url": "id-of-the-codelab"
+  "url": "ci-cd-workshop-source"
 }
